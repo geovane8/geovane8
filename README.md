@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Go Lens" height="30" width="30" src="https://i.imgur.com/2bfic1w.jpg">
+  <img align="center" alt="Go Lang" height="30" width="30" src="https://i.imgur.com/d7LGPtW.png">
   <img align="center" alt="SQL" height="30" width="30" src="https://i.imgur.com/KcomdRs.png">
   <img align="center" alt="C++" height="40" width="40" src="https://i.imgur.com/BWvx4xo.png">
   <img align="center" alt="PASCAL" height="30" width="35" src="https://i.imgur.com/XTfAceA.png">
