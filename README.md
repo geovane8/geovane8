@@ -11,6 +11,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://i.imgur.com/KcomdRs.png">
+  <img align="center" alt="SQL" height="30" width="40" src="https://i.imgur.com/BWvx4xo.png">
+  <img align="center" alt="SQL" height="30" width="40" src="https://i.imgur.com/XTfAceA.png">
   
 </div>
  
